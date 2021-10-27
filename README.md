@@ -1,4 +1,4 @@
-# oneweekhack21
+# OneWeekHackathon 2021
 ## Microsoft Global One Week Hackathon 2021 Oct. 12-15
 ### Develop Sustainable IoT Solutions with ReDI School & Project15
 
